@@ -1,1 +1,1 @@
-# printkc
+print("gg")
